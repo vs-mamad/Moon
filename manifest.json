@@ -1,0 +1,21 @@
+{
+  "name": "آقای فیلم",
+  "short_name": "آقای فیلم",
+  "description": " بهترین فیلم ها و سریال ها رو در سایت ما ببینید بدون اشتراک خاصی و بدون محدودیت سریع راحت مطمئن آقای فیلم",
+  "start_url": "worker.js", 
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/vs-mamad/Moon/refs/heads/main/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/vs-mamad/Moon/refs/heads/main/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
